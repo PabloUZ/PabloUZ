@@ -1,3 +1,8 @@
+<head>
+    <link rel="stylesheet" src="style.css">
+</head>
+
+
 # Pablo Uribe Zuluaga
 >  Systems engineering (Student)
 

@@ -1,5 +1,14 @@
+<head>
+    <link rel="stylesheet" src="style.css">
+</head>
+
+
 # Pablo Uribe Zuluaga
 >  Ingeniería de sistemas (Estudiante)
+
+<h1>
+  Hola
+</h1>
 
 Soy estudiante de Ingeniería de sistemas en la universidad Autonoma de Manizales, actualmente cursando cuarto semestre.
 

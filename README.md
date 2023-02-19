@@ -16,11 +16,18 @@ En la Universidad desarrollé una pagina web llamada [Programación desde 0]() d
 - Terminal
 - Bash scripting
 
+<style>
+    div{
+        text-align: center;
+        color: black;
+    }
+</style>
+<div>hola</div>
 
 ## Certificados
 
-<div>
-    <img src="images/git.jpg" width="30%">
-    <img src="images/redes.jpg"  width="30%">
-    <img src="images/terminal.jpg"  width="30%">
+<div display="grid" gridTemplateColumns>
+    <img src="images/git.jpg">
+    <img src="images/redes.jpg">
+    <img src="images/terminal.jpg">
 </div>

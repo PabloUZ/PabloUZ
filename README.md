@@ -1,11 +1,11 @@
 # Pablo Uribe Zuluaga
 >  Ingeniería de sistemas (Estudiante)
 
-Soy estudiante de Ingeniería de sistemas en la universidad Autonoma de Manizales, actualmente cursando tercer semestre.
+Soy estudiante de Ingeniería de sistemas en la universidad Autonoma de Manizales, actualmente cursando cuarto semestre.
 
 Me gusta programar mis propias herramientas y crear mis propios proyectos, tengo un canal en [YouTube](https://www.youtube.com/channel/UC62Vw-ATtv01Pgk2yHvLjdg), no muy activo en el que subo videos de programación.
 
-En la Universidad desarrollé una pagina web llamada [Programación desde 0]() donde puedes aprender lo básico de la programación para que, si te interesa, puedas profundizar mas en esta area de la tecnología.
+En la Universidad desarrollé una pagina web llamada <a href="https://pablouz.github.io/AprendeProgramacion" style="color: orange;">Aprende Programacion</a> en <strong style="color: orange;">Angular</strong> donde puedes aprender lo básico de la programación para que, si te interesa, puedas profundizar mas en esta area de la tecnología.
 
 ## Tecnologias
 - C++
@@ -16,18 +16,12 @@ En la Universidad desarrollé una pagina web llamada [Programación desde 0]() d
 - Terminal
 - Bash scripting
 
-<style>
-    div{
-        text-align: center;
-        color: black;
-    }
-</style>
-<div>hola</div>
-
 ## Certificados
 
-<div display="grid" gridTemplateColumns>
-    <img src="images/git.jpg">
-    <img src="images/redes.jpg">
-    <img src="images/terminal.jpg">
+<div>
+    <center>
+        <img src="images/git.jpg" width="30%">
+        <img src="images/redes.jpg" width="30%">
+        <img src="images/terminal.jpg" width="30%">
+    </center>
 </div>

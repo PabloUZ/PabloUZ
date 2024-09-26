@@ -6,7 +6,7 @@
 # Pablo Uribe Zuluaga
 >  Systems engineering (Student)
 
-I am studying systems engineering at Universidad Autónoma de Manizales in Colombia, currently coursing fifth semester.
+I am studying systems engineering at Universidad Autónoma de Manizales in Colombia, currently coursing sixth semester.
 
 I like developing my own tools and challenge me with projects.
 Also, I have a [YouTube](https://www.youtube.com/channel/UC62Vw-ATtv01Pgk2yHvLjdg) channel, where I upload programming videos in spanish.

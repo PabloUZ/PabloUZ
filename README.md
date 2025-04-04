@@ -17,13 +17,30 @@ In College, I developed the website [Aprende Programacion](https://pablouz.githu
 </div>
 
 ### Certificates
+<!-- div display tabla -->
 
-<div align="center" >
+<table style="width:100%; border:none; gap: 0px;">
+  <tr>
+    <td style="border:none;"><img src="images/git.jpg"></td>
+    <td style="border:none;"><img src="images/redes.jpg"></td>
+    <td style="border:none;"><img src="images/terminal.jpg"></td>
+  </tr>
+  <tr>
+    <td style="border:none;"><img src="images/bash-scripting.png"></td>
+    <td style="border:none;"><img src="images/intro-servidores.png"></td>
+  </tr>
+</table>
+
+<div align="center">
     <img src="images/git.jpg" width="30%">
     &nbsp;
     <img src="images/redes.jpg" width="30%">
     &nbsp;
     <img src="images/terminal.jpg" width="30%">
+    &nbsp;
+    <img src="images/bash-scripting.png" width="30%">
+    &nbsp;
+    <img src="images/intro-servidores.png" width="30%">
 </div>
 
 <br>

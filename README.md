@@ -17,7 +17,6 @@ In College, I developed the website [Aprende Programacion](https://pablouz.githu
 </div>
 
 ### Certificates
-<!-- div display tabla -->
 
 <table style="width:100%; border:none; gap: 0px;">
   <tr>
@@ -30,18 +29,6 @@ In College, I developed the website [Aprende Programacion](https://pablouz.githu
     <td style="border:none;"><img src="images/intro-servidores.png"></td>
   </tr>
 </table>
-
-<div align="center">
-    <img src="images/git.jpg" width="30%">
-    &nbsp;
-    <img src="images/redes.jpg" width="30%">
-    &nbsp;
-    <img src="images/terminal.jpg" width="30%">
-    &nbsp;
-    <img src="images/bash-scripting.png" width="30%">
-    &nbsp;
-    <img src="images/intro-servidores.png" width="30%">
-</div>
 
 <br>
 <br>

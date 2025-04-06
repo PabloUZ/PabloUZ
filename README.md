@@ -53,7 +53,7 @@ I am a fullstack developer focused on backend development, with experience in Ja
 
 <!-- website here -->
 ## :globe_with_meridians: Website
-[![www](https://img.shields.io/badge/WWW-green)](https://pablouribezuluaga.com)
+[![www](https://img.shields.io/badge/WWW-green?style=for-the-badge)](https://pablouribezuluaga.com)
 
 ## :envelope: Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-uribe-zuluaga-9893b7240/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pablo-uribe-zuluaga-9893b7240/)

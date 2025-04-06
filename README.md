@@ -20,11 +20,12 @@ In College, I developed the website [Aprende Programacion](https://pablouz.githu
 
 <table style="width:100%; border:none; gap: 0px;">
   <tr>
+    <td style="border:none;"><img src="images/ing-sw.jpg"></td>
     <td style="border:none;"><img src="images/git.jpg"></td>
     <td style="border:none;"><img src="images/redes.jpg"></td>
-    <td style="border:none;"><img src="images/terminal.jpg"></td>
   </tr>
   <tr>
+    <td style="border:none;"><img src="images/terminal.jpg"></td>
     <td style="border:none;"><img src="images/bash-scripting.png"></td>
     <td style="border:none;"><img src="images/intro-servidores.png"></td>
   </tr>

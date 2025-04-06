@@ -1,22 +1,39 @@
 # Pablo Uribe Zuluaga
 >  Systems engineering (Student)
 
-I am studying systems engineering at Universidad Autónoma de Manizales in Colombia, currently coursing seventh semester.
+I am studying Systems Engineering at Universidad Autónoma de Manizales in Colombia, currently coursing seventh semester.
 
-I like developing my own tools and challenge me with projects.
-Also, I have a [YouTube](https://www.youtube.com/channel/UC62Vw-ATtv01Pgk2yHvLjdg) channel, where I upload programming videos in spanish.
+I am a fullstack developer focused on backend development, with experience in JavaScript and TypeScript, and I am currently learning Python for Data Science and AI.
 
-In College, I developed the website [Aprende Programacion](https://pablouz.github.io/AprendeProgramacion) using <strong>Angular</strong>, where you can learn programming basics, so if you're interested, you can continue learning by yourself.
+<hr style="border:none; background-color: #4545f4; height: 1.5px;"/>
+
+## :computer: Skills
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,neovim&perline=10" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nest,mysql,mongodb&perline=10" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,angular&perline=10" />
+
+<!-- ### Data Science and AI
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib&perline=10" /> -->
+
+### Infrastructure
+<img src="https://skillicons.dev/icons?i=linux,bash&perline=10" />
 <br>
-<br>
+
+
+<hr style="border:none; background-color: #4545f4; height: 1.5px;"/>
 
 <div align="center">
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC62Vw-ATtv01Pgk2yHvLjdg?label=YOUTUBE&style=for-the-badge)&nbsp;![GitHub followers](https://img.shields.io/github/followers/PabloUZ?label=GitHub&style=for-the-badge)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC62Vw-ATtv01Pgk2yHvLjdg?label=YouTube&style=for-the-badge)&nbsp;![GitHub followers](https://img.shields.io/github/followers/PabloUZ?label=GitHub&style=for-the-badge)
 
 </div>
 
-### Certificates
+### :books: Certificates
 
 <table style="width:100%; border:none; gap: 0px;">
   <tr>
@@ -31,16 +48,12 @@ In College, I developed the website [Aprende Programacion](https://pablouz.githu
   </tr>
 </table>
 
-<br>
-<br>
-<br>
-<br>
-<hr>
-<div align="center">
-    <img src="images/html.png" width="5%" title="HTML">&nbsp;&nbsp;
-    <img src="images/css.png" width="5%" title="CSS">&nbsp;&nbsp;
-    <img src="images/node.png" width="5%" title="NodeJS">&nbsp;&nbsp;
-    <img src="images/angular.png" width="5%" title="Angular">&nbsp;&nbsp;
-    <img src="images/nest.png" width="5%" title="NestJS">&nbsp;&nbsp;
-    <img src="images/linux.png" width="5%" title="Linux">&nbsp;&nbsp;
-</div>
+
+<hr style="border:none; background-color: #4545f4; height: 1.5px;"/>
+
+<!-- website here -->
+## :globe_with_meridians: Website
+[![www](https://img.shields.io/badge/WWW-green?style=for-the-badge)](https://pablouribezuluaga.com)
+
+## :envelope: Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pablo-uribe-zuluaga-9893b7240/)

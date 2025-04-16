@@ -46,6 +46,9 @@ I am a fullstack developer focused on backend development, with experience in Ja
     <td style="border:none;"><img src="images/bash-scripting.png"></td>
     <td style="border:none;"><img src="images/intro-servidores.png"></td>
   </tr>
+  <tr>
+    <td style="border:none;"><img src="images/docker.jpg"></td>
+  </tr>
 </table>
 
 
